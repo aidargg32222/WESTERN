@@ -109,12 +109,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-- files: ["thunderdome.ogg"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "-Sector11 by MashedByMachines. Converted from MP3 to OGG."
-  source: "https://www.newgrounds.com/audio/listen/312622"
-
 - files: ["Midnight_Blacks_theme.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Bolgarich. Converted from MP3 to OGG."
-  source: "https://rus.hitmotop.com/song/76912041"
+  source: "https://pinkamuz.pro/search/Bolgarich" 
