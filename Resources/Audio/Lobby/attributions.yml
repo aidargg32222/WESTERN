@@ -109,7 +109,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-- files: ["Midnight_Blacks_theme.ogg"]
+- files: ["thunderdome.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Bolgarich. Converted from MP3 to OGG."
-  source: "https://pinkamuz.pro/search/Bolgarich" 
+  copyright: "-Sector11 by MashedByMachines. Converted from MP3 to OGG."
+  source: "https://www.newgrounds.com/audio/listen/312622"
+
+- files: ["space_asshole.ogg"]
+  license: "Custom"
+  copyright: "Space Asshole by Chris Remo is used with special permission from the author, under the condition that the project remains non-commercial and open source. The author also requested that a link to his bandcamp be included: https://chrisremo.bandcamp.com/"
+  source: "https://idlethumbs.bandcamp.com/track/space-asshole"
