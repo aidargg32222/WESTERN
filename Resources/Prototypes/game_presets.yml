@@ -261,10 +261,10 @@
   alias:
     - nukeops
   name: World War
-  description: Развивайся, воюй и постигай новые знания под флагом своей федерации! Покажи им кто здесь лидер....
+  description: wow-discription
   showInVote: true
   rules:
-  
+  - Nukeops
   - SubGamemodesRule
   - BasicStationEventScheduler
   - MeteorSwarmScheduler
