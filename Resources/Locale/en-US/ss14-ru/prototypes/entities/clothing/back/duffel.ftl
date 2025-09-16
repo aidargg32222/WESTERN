@@ -27,24 +27,24 @@ ent-ClothingBackpackDuffelScience = вещмешок учёного
 ent-ClothingBackpackDuffelHydroponics = вещмешок ботаника
     .desc = Большой вещмешок для хранения дополнительных садовых инструментов.
 ent-ClothingBackpackDuffelCargo = вещмешок грузчика
-    .desc = Большой вещмешок для воровства драгоценной добычи.
+    .desc = Большой вещмешок для для воровства драгоценной добычи.
 ent-ClothingBackpackDuffelSalvage = вещмешок утилизатора
     .desc = Большой вещмешок для хранения дополнительных экзотических сокровищ.
 # Corvax-HiddenDesc-Start
 ent-ClothingBackpackDuffelSyndicate = чёрно-красный вещмешок
-    .desc = Большой вещмешок для хранения дополнительных предательских предметов.
-    .suffix = вещмешок синдиката
-# Corvax-HiddenDesc-End
+    .suffix = вещмешок Синдиката
+    .desc = Вместительный и удобный вещмешок цвета эбонита и крови, в который влезут «игрушки» для любых возрастов.
 ent-ClothingBackpackDuffelSyndicateBundle = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-ent-ClothingBackpackDuffelBundle = { ent-ClothingBackpackDuffel }
-    .desc = { ent-ClothingBackpackDuffel.desc }
-ent-ClothingBackpackDuffelSyndicateAmmo = { ent-ClothingBackpackDuffelSyndicate }
+ent-ClothingBackpackDuffelSyndicateAmmo = вещмешок Синдиката
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
 ent-ClothingBackpackDuffelSyndicateAmmoBundle = { ent-ClothingBackpackDuffelSyndicateAmmo }
+    .suffix = набор аммуниции Синдиката
     .desc = { ent-ClothingBackpackDuffelSyndicateAmmo.desc }
 ent-ClothingBackpackDuffelSyndicateMedical = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
+    .suffix = медицинский вещмешок Синдиката
+    .desc = Вместительный и удобный вещмешок с красной эмблемой "Звезды жизни" цвета эбонита и крови. Интересно, его хозяин соблюдает клятву Гиппократа?
+# Corvax-HiddenDesc-End
 ent-ClothingBackpackDuffelSyndicateMedicalBundle = { ent-ClothingBackpackDuffelSyndicateMedical }
     .desc = { ent-ClothingBackpackDuffelSyndicateMedical.desc }
 ent-ClothingBackpackDuffelHolding = бездонный вещмешок

@@ -1,7 +1,5 @@
 ent-BaseChemistryEmptyVial = пробирка
     .desc = Маленькая пробирка.
-ent-BorgVial = встроенная пробирка
-    .desc = Внутренний отсек, установленный в киборга. Рассчитан на 30 единиц любой жидкости.
 ent-VestineChemistryVial = { ent-BaseChemistryEmptyVial }
     .suffix = Вестин
     .desc = { ent-BaseChemistryEmptyVial.desc }
@@ -10,7 +8,4 @@ ent-RadiumChemistryVial = { ent-BaseChemistryEmptyVial }
     .desc = { ent-BaseChemistryEmptyVial.desc }
 ent-ChlorineChemistryVial = { ent-BaseChemistryEmptyVial }
     .suffix = Хлор
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-PlasmaChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Плазма
     .desc = { ent-BaseChemistryEmptyVial.desc }
