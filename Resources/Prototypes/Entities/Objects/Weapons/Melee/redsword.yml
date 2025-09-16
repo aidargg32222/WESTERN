@@ -1,7 +1,7 @@
 - type: entity
   name: katana
   parent: [ BaseSword, BaseMajorContraband ]
-  id: Katana
+  id: katana
   description: Ancient craftwork made with not so ancient plasteel.
   components:
   - type: Tag
